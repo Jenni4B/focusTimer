@@ -5,9 +5,9 @@ const TimerDisplay = ({minutes, seconds}) => {
     const displayedSeconds = seconds.toString().padStart(2, '0');
 
     return (
-      <div>
+      <section>
         <h1>{displayedMinutes}:{displayedSeconds}</h1>
-      </div>
+      </section>
     );
 }
 
