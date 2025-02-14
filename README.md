@@ -7,11 +7,15 @@ A customizable timer interface to help users maintain concentration during work 
    ```sh
    git clone https://github.com/Jenni4B/focusTimer.git
    cd focus-timer
+   ```
+   1.a May have to also run:
+   ```sh
+   cd time-wise
 
-2. Install basic dependencies
+3. Install basic dependencies
    ```sh
    npm install
-3. Run :D
+4. Run :D
    ```sh
    npm start
 
